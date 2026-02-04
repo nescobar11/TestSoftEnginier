@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\TeamTask.Api",
+    "\\src\\TeamTask.Application",
+    "\\src\\TeamTask.Application\\Services",
+    "\\src\\TeamTask.Domain",
+    "\\src\\TeamTask.Domain\\Enums",
+    "\\src\\TeamTask.Infrastructure",
+    "\\src\\TeamTask.Infrastructure\\Data",
+    "\\src\\TeamTask.Infrastructure\\obj",
+    "\\src\\TeamTask.Infrastructure\\Repositories"
+  ],
+  "SelectedNode": "\\src\\TeamTask.Api\\TeamTask.Api.csproj",
+  "PreviewInSolutionExplorer": false
+}
